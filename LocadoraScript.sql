@@ -1,10 +1,4 @@
-/*
-Estudantes:
-Edson Dias Ferreira Júnior
-Michel Oliveira Machado
-Jhonatan Gratieri Simoni
-Kluyvert Ananias Nunes
-*/
+
 
 CREATE DATABASE IF NOT EXISTS LOCADORA_DE_VIDEO;
 
