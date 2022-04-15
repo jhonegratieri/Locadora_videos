@@ -1,10 +1,3 @@
-/*
-Estudantes:
-Edson Dias Ferreira Júnior
-Michel Oliveira Machado
-Jhonatan Gratieri Simoni
-Kluyvert Ananias Nunes
-*/
 
 
 USE LOCADORA_DE_VIDEO;
